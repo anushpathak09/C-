@@ -4,10 +4,7 @@ int main(){
     int a,b;
     cout<<"Enter 1st Number : ";
     cin>>a;
-    cout<<endl;
-    cout<<"Enter 2nd Number : ";
+    cout<<endl<<"Enter 2nd Number : ";
     cin>>b;
-    cout<<endl;
-    cout<<"Sum of a+b is : ";
-    cout<<a+b;
+    cout<<endl<<"Sum of a+b is : "<<a+b;
 }
