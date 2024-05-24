@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Pool/Desktop/C++/basics",
-      "program": "c:/Users/Pool/Desktop/C++/basics/build/Debug/outDebug",
+      "cwd": "c:/Users/Pool/Desktop/C++/build/Debug/Basics of C++",
+      "program": "c:/Users/Pool/Desktop/C++/build/Debug/Basics of C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
