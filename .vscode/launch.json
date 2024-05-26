@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Pool/Desktop/C++/build/Debug/Conditionals",
-      "program": "c:/Users/Pool/Desktop/C++/build/Debug/Conditionals/build/Debug/outDebug",
+      "cwd": "c:/Users/Pool/Desktop/C++",
+      "program": "c:/Users/Pool/Desktop/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
